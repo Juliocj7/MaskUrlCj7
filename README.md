@@ -23,7 +23,8 @@
 </details>
 
 ## Menú Principal :
-![Screenshot_20210903-235607_Termux](https://user-images.githubusercontent.com/81049859/132081710-be7e676f-72b8-47e8-ac25-3dbc7457900b.png)
+![Screenshot_20220423-224647_Termux](https://user-images.githubusercontent.com/81049859/164953986-e613ef33-9e97-49a1-9b90-3b6cd0cfed80.png)
+
 
 
 ## Shorter is.gd : 
