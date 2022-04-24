@@ -25,23 +25,10 @@
 ## Menú Principal :
 ![Screenshot_20220423-224647_Termux](https://user-images.githubusercontent.com/81049859/164953986-e613ef33-9e97-49a1-9b90-3b6cd0cfed80.png)
 
-
-
-## Shorter is.gd : 
-![Screenshot_20210828-105726_Termux](https://user-images.githubusercontent.com/81049859/131223117-57458c21-4f7f-4772-91fe-ccd795014f1f.png)
-
-
-## Shorter tinyURL :
-![Screenshot_20210828-105802_Termux](https://user-images.githubusercontent.com/81049859/131223123-fa8cb27e-a3f9-4fad-bb2e-a8b1cb1657b0.png)
-
-
-## Shorter git.io :
-![Screenshot_20210828-110648_Termux](https://user-images.githubusercontent.com/81049859/131223130-35d424f3-1c18-4f54-920e-bc1c9bb567f7.png)
-
-
 ## MaskUrlCj7 :
 * **Acorta y camufla URLs** de una manera rápida y sencilla.
 * **Acorta enlaces Github** con dominios personalizados.
+* Escanea **enlaces acortados** y descubre su verdadero "propósito" xD.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
