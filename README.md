@@ -13,7 +13,6 @@
 
 <p align="center"><img src="https://github.com/Juliocj7/Juliocj7/blob/main/InicioCj72.gif" width="350" height="110"/> </p>
 
-
 <details>
 <summary>  ⸸𝕵𝖚𝖑𝖎𝖔𖤐𝖈𝖏7⸸ </summary>
 <br>
@@ -24,7 +23,6 @@
 
 ## Menú Principal :
 ![Screenshot_20220522-003242_Termux](https://user-images.githubusercontent.com/81049859/169680523-8990b03b-3bc0-40cc-9981-c5ad00b8fe19.png)
-
 
 ## MaskUrlCj7 :
 * **Acorta y camufla URLs** de una manera rápida y sencilla.
@@ -41,8 +39,9 @@
 https://github.com/Juliocj7/UtilsCj7
 ~~~
 
-* ` apt update && apt upgrade -y `
-
+```bash
+  yes|pkg update && pkg upgrade
+```
 * ` git clone https://github.com/Juliocj7/MaskUrlCj7 `
 
 * ` cd MaskUrlCj7 `
