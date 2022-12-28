@@ -23,7 +23,8 @@
 </details>
 
 ## Menú Principal :
-![Screenshot_20220522-003242_Termux](https://user-images.githubusercontent.com/81049859/169680523-8990b03b-3bc0-40cc-9981-c5ad00b8fe19.png)
+![Screenshot_20221227-235206_Termux](https://user-images.githubusercontent.com/81049859/209754672-d8576b80-3f4d-4bdc-b502-9d76198a6723.png)
+
 
 ## MaskUrlCj7 :
 * **Acorta y camufla URLs** de una manera rápida y sencilla.
