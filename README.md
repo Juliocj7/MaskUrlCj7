@@ -46,9 +46,9 @@ ______________________________________________________
 ![1000328333](https://github.com/Juliocj7/MaskUrlCj7/assets/81049859/1a506afd-740d-48ed-b585-fa48edf63cfb)
 
 ## MaskUrlCj7 :
-* **Acorta y camufla URLs** de una manera rápida y sencilla.
-* **Acorta enlaces Github** con dominios personalizados.
-* Escanea **enlaces acortados** y descubre su verdadero "propósito" xD.
+* Acorta y camufla **enlaces URL** de una manera rápida y sencilla.
+* ~~Acorta **enlaces github** con dominios personalizados.~~
+* Escanea **enlaces acortados** y descubre su verdadero propósito".
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
@@ -56,17 +56,18 @@ ______________________________________________________
 > [!NOTE]  
 > Para un correcto funcionamiento de esta herramienta porfavor instale los • [recursos básicos](https://github.com/Juliocj7/UtilsCj7) • para termux.
 
-```bash
-  yes|apt update && apt upgrade
+###### 01. Actualizar paquetes
+```shell
+yes|{apt update && apt upgrade}
 ```
-
-* ` git clone https://github.com/Juliocj7/MaskUrlCj7 `
-
-* ` cd MaskUrlCj7 `
-
-* ` chmod +x * `
-
-* ` ./MaskUrlCj7 `
+###### 02. Clonar repositorio
+```shell
+gh repo clone Juliocj7/MaskUrlCj7
+```
+###### 03. Ahora disfruta xD
+```shell
+cd MaskUrlCj7 && chmod +x * && ./MaskUrlCj7
+```
 
 ---
 ###### `Pd: Porfavor informar cualquier error`
