@@ -47,7 +47,7 @@
 ## MaskUrlCj7 :
 * Acorta y camufla **enlaces URL** de una manera rápida y sencilla.
 * ~~Acorta **enlaces github** con dominios personalizados.~~
-* Escanea **enlaces acortados** y descubre su verdadero propósito".
+* Escanea **enlaces acortados** y descubre su verdadero propósito.
 * El contenido, código, diseño y todo lo relacionado, son propiedad exclusiva y totalmente mía <img alt="i-boycute" src="https://github.com/Juliocj7/Juliocj7/blob/main/assets/image/i-boycute.png" width="20" height="20" />
 - > 𝙱𝚢: ` ⍣᭕ᬁ᭖𝙹𝚞𝚕𝚒𝚘𖤐𝙲𝚓7᭖᭕ᬁ⍣ `
 
